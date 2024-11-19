@@ -1,0 +1,15 @@
+{
+    "login":{
+        "title":"Login",
+        "email":"Email",
+        "password":"Password",
+        "login_button":"Login",
+        "sub-title": "Welcome back! Please enter your details",
+        "labelEmail": "Email",
+        "labelPassword": "Password"
+    },
+    "navLinks":{
+        "title":"Dashboard",
+        "logout":"Logout"
+    }
+}
